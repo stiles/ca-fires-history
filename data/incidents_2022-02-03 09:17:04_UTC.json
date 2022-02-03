@@ -1,0 +1,29 @@
+{
+  "Incidents": [],
+  "MatchedIncidentCount": 0,
+  "AllAcres": 687,
+  "AllIncidentCount": 1,
+  "AllFatalities": 0,
+  "AllStructures": 1,
+  "ListIncidents": [],
+  "AllYearIncidents": [
+    {
+      "IncidentId": 3215,
+      "UniqueId": "f3558310-247c-4913-a08b-68d568abdf4b",
+      "Name": "Colorado Fire",
+      "Location": "Palo Colorado Canyon, Big Sur, south of Carmel-by-the-sea",
+      "Latitude": 36.396461,
+      "Longitude": -121.880533,
+      "AcresBurnedDisplay": "687",
+      "PercentContainedDisplay": "98%",
+      "ExternalIncidentLink": "",
+      "CountiesList": "Monterey",
+      "UpdatedDate": "2022-02-02 09:00:16",
+      "StartedDate": "2022-01-21",
+      "AdminUnit": "CAL FIRE San Benito Monterey Unit & Mid Coast Fire",
+      "IncidentTypeDisplay": "Wildfire",
+      "Url": "https://www.fire.ca.gov/incidents/2022/1/21/colorado-fire/",
+      "IsActive": "N"
+    }
+  ]
+}
